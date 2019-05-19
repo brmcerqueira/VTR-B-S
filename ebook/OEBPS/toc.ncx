@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="por">
+  <head>
+    <meta content="0d4ca37c-3b18-40c2-9c3f-ea9bd9ebcb35" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.21.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Vampiro: O Réquiem - Sangue e Fumaça</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="uLWdbJZ2g8gPPrwUqVpSAcB" playOrder="1">
+      <navLabel>
+        <text>Introdução</text>
+      </navLabel>
+      <content src="titlepage.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
